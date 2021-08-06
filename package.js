@@ -1,6 +1,6 @@
 Package.describe({
   summary: "Login service for Google accounts",
-  version: "1.1",
+  version: "1.1.0",
   name: 'pathable:accounts-google',
   git: 'https://github.com/pathable/accounts-google',
 });
